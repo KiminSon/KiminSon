@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimin0331)](https://solved.ac/kimin0331/)
 
 
-인스타: https://www.instagram.com/kimin_son/?hl=ko
-링크드인: https://www.linkedin.com/in/%EA%B8%B0%EB%AF%BC-%EC%86%90-173899297/
-블로그: https://blog.naver.com/kimin0331
-메일: kimin0331@naver.com
+인스타: https://www.instagram.com/kimin_son/?hl=ko <br/>
+링크드인: https://www.linkedin.com/in/%EA%B8%B0%EB%AF%BC-%EC%86%90-173899297/ <br/>
+블로그: https://blog.naver.com/kimin0331 <br/>
+메일: kimin0331@naver.com <br/>
