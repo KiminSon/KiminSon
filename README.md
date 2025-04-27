@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimin0331)](https://solved.ac/kimin0331/)
 
-이력서: https://nonstop-koi-a95.notion.site/1e2d235edb3c804e8a18fa2971e8c888?pvs=74
+이력서: https://nonstop-koi-a95.notion.site/1e2d235edb3c804e8a18fa2971e8c888?pvs=74 <br/>
 링크드인: https://www.linkedin.com/in/%EA%B8%B0%EB%AF%BC-%EC%86%90-173899297/ <br/>
 블로그: https://blog.naver.com/kimin0331 <br/>
 메일: kimin0331@naver.com <br/>
