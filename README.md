@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 이력서: https://nonstop-koi-a95.notion.site/1e2d235edb3c804e8a18fa2971e8c888?pvs=74 <br/><br/>
 링크드인: https://www.linkedin.com/in/%EA%B8%B0%EB%AF%BC-%EC%86%90-173899297/ <br/><br/>
-블로그: https://blog.naver.com/kimin0331 <br/><br/>
 메일: kimin0331@naver.com <br/><br/>
